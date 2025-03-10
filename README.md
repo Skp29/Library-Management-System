@@ -52,6 +52,9 @@ Enable Multi-language support
 
 ---
 Feel free to reach out anytime
+---
+
+---
 🙋‍♂️ Author
 Sumit Pandey
 📍 Ottawa, Canada
